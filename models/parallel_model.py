@@ -1,6 +1,6 @@
 """
 Mask R-CNN
-Multi-GPU Support for Keras.
+Multi-GPU Support for Keras
 
 Copyright (c) 2017 Matterport, Inc.
 Licensed under the MIT License (see LICENSE for details)
